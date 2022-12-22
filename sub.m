@@ -5,7 +5,6 @@ function x = sub(X,D)
 % x = 2D position estimate
 % X = matrix for receiver positions
 % r = TOA measurement vector
-% 
 
 %In our case, this function should be invoked as sub(anc,M), in order to 
 %output the location estimate
